@@ -17,4 +17,6 @@ Skills: Rust/Python/C++
 
 ![Profile views](https://gpvc.arturio.dev/dar0ghost)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dark0ghost)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dark0ghost&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/dark0ghost/dark0ghost/blob/master/gopher.gif)
