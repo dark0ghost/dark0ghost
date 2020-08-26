@@ -1,5 +1,5 @@
 ### Hi there 👋, Ghost
-![](https://avatars0.githubusercontent.com/u/40036029?s=400&u=8e4ec1fb5e2bef4fb8975e9f7276c47f6f801bf1&v=4)
+![](https://github.com/dark0ghost/dark0ghost/blob/master/gogetajob.jpg)
 
 developer from Czech Republic
 
