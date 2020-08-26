@@ -6,7 +6,7 @@ developer from Czech Republic
 Skills: Rust/Python/C++
 
 - 🔭 I’m currently working on computer security study 
-- 🌱 I’m currently learning ČVUT 
+- 🌱 I’m currently learning in ČVUT 
 - 🤔 I’m looking for help with https://github.com/dark0ghost/project_x 
 - 😄 Pronouns: you 
 
