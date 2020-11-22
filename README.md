@@ -8,7 +8,7 @@ Skills: Rust/Python/C++
 - 🔭 I’m currently working on computer security study 
 - 🌱 I’m currently learning in ČVUT 
 - 🤔 I’m looking for help with https://github.com/dark0ghost/project_x 
-- 😄 Pronouns: you 
+- 😄 Pronouns: magister/you 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dark0ghost)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9993061)  
