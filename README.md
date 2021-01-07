@@ -1,4 +1,4 @@
-### Hi there 👋,i am Ghost
+### Hi there 👋
 ![](https://github.com/dark0ghost/dark0ghost/blob/master/gogetajob.jpg)
 
 developer from Czech Republic
