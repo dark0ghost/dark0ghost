@@ -3,7 +3,7 @@
 
 developer from Czech Republic
 
-Skills: Rust/Python/C++
+Skills: Rust/Python/Kotlin 
 
 - 🔭 I’m currently working on computer security study 
 
