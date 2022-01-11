@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![](https://github.com/dark0ghost/dark0ghost/blob/master/gogetajob.jpg)
 
-developer from Czech Republic
-
-🔭 I’m currently working on computer security study
+I’m currently working on computer security study and developer from Czech Republic🇨🇿
  
 <summary><b>work with:</b>
 </summary>
