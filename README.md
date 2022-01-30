@@ -7,7 +7,7 @@ I’m currently working on computer security study and developer from Czech Repu
 </summary>
  <ul>
   <li><b>OS:</b> Parrot os </li>
-	<li><b>Code Editor`s(idea`s):</b> PyCharm,Clion, DataGrip, WebStorm, Android Studio Canary,Intellij, GoLand </li>
+	<li><b>Code Editor`s (idea`s):</b> PyCharm,Clion, DataGrip, WebStorm, Android Studio Canary,Intellij, GoLand </li>
   <li><b>Program Language`s:</b> Rust,Python, Go, Kotlin, Js, Java, C, CPP </li>
   <li><b>Software framework`s: actix, django, aiohttp, aiogram, ktor, react.js </b>
 </ul>	
