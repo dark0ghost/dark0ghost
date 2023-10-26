@@ -19,6 +19,3 @@ I’m currently working on computer security study and developer from Czech Repu
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=dark0ghost&theme=blue-green) ![](https://github.com/dark0ghost/dark0ghost/blob/master/gopher.gif)
 
 
-
-
-![Profile views](https://gpvc.arturio.dev/dar0ghost)  
