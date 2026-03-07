@@ -14,7 +14,9 @@ I’m currently working on computer security study and developer from Czech Repu
 
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
