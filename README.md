@@ -18,7 +18,5 @@ I’m currently working on computer security study and developer from Czech Repu
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=dark0ghost&theme=blue-green) 
 
-![](
-static/gopher.gif)
+![](static/gopher.gif)
