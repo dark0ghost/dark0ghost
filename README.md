@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/dark0ghost/dark0ghost/blob/master/gogetajob.jpg)
+![](static/gogetajob.jpg)
 
 I’m currently working on computer security study and developer from Czech Republic🇨🇿
  
@@ -13,9 +13,12 @@ I’m currently working on computer security study and developer from Czech Repu
 </ul>	
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dark0ghost&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=dark0ghost&theme=blue-green) ![](https://github.com/dark0ghost/dark0ghost/blob/master/gopher.gif)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=dark0ghost&theme=blue-green) 
 
-
+![](
+static/gopher.gif)
